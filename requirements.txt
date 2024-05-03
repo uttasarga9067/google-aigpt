@@ -1,0 +1,11 @@
+langchain
+streamlit
+python-dotenv
+pillow
+opencv-python
+transformers
+librosa
+google-generativeai
+langchain-google-genai
+PyPDF2
+utils
